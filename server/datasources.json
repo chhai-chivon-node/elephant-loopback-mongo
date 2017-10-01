@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoDataSource": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "elephant-loopback-mongo",
+    "password": "",
+    "name": "mongoDataSource",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
